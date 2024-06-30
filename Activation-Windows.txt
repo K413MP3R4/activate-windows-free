@@ -1,0 +1,12 @@
+Sur WINDOWS 10/11 
+
+ouvrez powershell entrer sa :
+
+irm https://get.activated.win | iex 
+
+selectionner l'option 1 
+windows est activer .
+
+selection 5 pour verifier le status 
+
+enjoy!
